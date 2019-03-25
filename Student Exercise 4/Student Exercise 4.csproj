@@ -6,4 +6,8 @@
     <RootNamespace>Student_Exercise_4</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.110" />
+  </ItemGroup>
+
 </Project>
